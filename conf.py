@@ -136,9 +136,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
+        ("/archive.html", "Posts"),
         ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/rss.xml", "RSS"),
     ),
 }
 
@@ -150,7 +150,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "bootstrap4"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
