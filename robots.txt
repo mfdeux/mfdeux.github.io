@@ -1,4 +1,4 @@
-Sitemap: https://example.com/sitemapindex.xml
+Sitemap: https://mfdeux.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: example.com
+Host: mfdeux.github.io
